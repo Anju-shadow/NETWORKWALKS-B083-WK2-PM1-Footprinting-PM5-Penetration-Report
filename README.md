@@ -2,7 +2,6 @@
 ☑️Penetration Testing Report — Footprinting & Network Scanning
 
 **📌 Project Information**
-## ⚙️ Lab Configuration
 
 | 🧩 Component | ⚙️ Detail |
 | :--- | :--- |
