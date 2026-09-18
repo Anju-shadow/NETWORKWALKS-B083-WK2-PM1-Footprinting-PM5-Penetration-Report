@@ -239,7 +239,41 @@ Curl-I
 
 **Zenmap scan**
 --
-![Screenshot](
+![Screenshot](Screenshot2026-09-18 230144.png)
+
+topology
+--
+![Screenshot](Screenshot 2026-09-18 230947.png)
+
+--
+**🐛Troublshooting**
+--
+During performing kali linux tools i got network issue and could not fetch details about the domain service.i tried severaal time then with the help of instructor video i got to know that many of students had same issue and i got to know about where i made mistake Then i fixed  issue by network configuration Nat to Nat Network .Finally ,I was able to perform activities for footprinting.
+In the scanning phase i was confused to add which ip address then i grasp knowledge of ip address and subnet it became easy to detect the information about Lan local network.
+
+**💡What I Learn**
+--
+- Differentiate b/w Nat and Nat network
+- Understood how vital documentation is for cybersecurity professionals - recording problems, solutions, configurations, and step-by-step procedures
+-Importance of Report writing .
+-Got to know about Autorisation permission letter which will help me in future.
+-Learned proper storage management techniques
+-Learned different tools of kali linux.
+
+**🔐 Security and Ethical Use**
+--
+This laboratory is strictly used for educational purposes only. All activities conducted within this lab must comply with applicable laws and regulations. Unauthorized access to computer systems is illegal and unethical. All penetration testing and security assessments must be conducted only on systems for which explicit written permission has been obtained from the authorized owner.
+
+------
+**:👤 Author**
+--
+Anju
+
+Cybersecurity Intern BO83
+
+LinkedIn: www.linkedin.com/in/anju-84b8ba394
+
+
 
 
 
