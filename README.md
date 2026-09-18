@@ -100,7 +100,7 @@ Secondly I used this to fetch the Tech-service it used .And it gave me result li
   
   **Nslokup**
   ----------
-  Nslookup change domain name into ip address ,The ip address i got is:-
+  Nslookup resolved domain name into ip address of the web server.
 
   **Curl**
   -----------
@@ -272,6 +272,10 @@ Anju
 Cybersecurity Intern BO83
 
 LinkedIn: www.linkedin.com/in/anju-84b8ba394
+
+**Credit**
+--
+NetworkWalks Academy — Waqas Karim (CCIE)
 
 
 
