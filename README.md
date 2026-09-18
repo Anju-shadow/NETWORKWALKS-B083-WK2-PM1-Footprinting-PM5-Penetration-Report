@@ -143,8 +143,66 @@ Note:-The risk level above observations do not confirmed any vulnerability .
 Therefore, the presence of information such as a software version, IP address, or DNS record does not by itself mean that the system is vulnerable. Further authorized security testing would be required to confirm any actual vulnerability
 
 ------------------------------
-**6.↪️Recomendation**
+**6.↪️ Security Recomendation**
 -----
+1. **Check what’s visible online**  
+   Regularly see what info about your website, CMS, and plugins is exposed publicly.  
+
+2. **Update software often**  
+   Keep WordPress, plugins, and other tools updated with the latest security patches.  
+
+3. **Review HTTP headers**  
+   Remove or limit extra technical details in response headers.  
+
+4. **Check DNS records**  
+   Make sure only necessary DNS records are exposed.  
+
+5. **Configure WAF properly**  
+   Keep ModSecurity active and tuned to block attacks.  
+
+6. **Scan your internal network**  
+   Run scans to see which devices are active.  
+
+7. **Investigate unknown devices**  
+   If a new or strange device shows up, check it immediately.  
+
+8. **Document your network**  
+   Maintain updated records of devices and network layout.  
+
+9. **Do authorized testing only**  
+   Run scans and reconnaissance only with proper permission.
+
+    # 📚 Internship Report – Week 2  
+**Cybersecurity & Ethical Hacking Internship**
+
+During the  week-2 of my project, I focused on practical exercises related to **footprinting, reconnaissance, and network scanning**. These activities gave me hands-on exposure and helped me understand the importance of information gathering in cybersecurity.
+
+### 🔎 Footprinting Activity
+I worked with six Kali Linux tools to collect information about the target domain:
+- **WHOIS** → Domain registration details  
+- **WhatWeb** → Identify web technologies  
+- **Nslookup** → Resolve domain names  
+- **Curl** → Examine HTTP headers  
+- **Wafw00f** → Detect Web Application Firewall  
+- **DNSRecon** → Gather DNS-related records  
+
+### 🌐 Network Scanning Activity
+I used **Zenmap** to scan my local network:
+- Identified active hosts, IP and MAC addresses  
+- Created a simple network topology to understand the structure  
+
+### 📚 Key Learnings
+- Information gathering is the first step before exploitation  
+- Documentation should clearly describe activities, findings, risks, and recommendations  
+- Reconnaissance and scanning must always be performed **with authorization**  
+
+All activities were conducted within the assigned educational cybersecurity lab environment
+-----------------------------------
+**📷Evidence collected**
+Who is 
+
+
+
 
 
 
