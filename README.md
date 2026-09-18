@@ -85,7 +85,7 @@ Secondly I used this to fetch the Tech-service it used .And it gave me result li
 - WP Download Manager 3.3.58
 - Other information exposed by the website
   
-  **Nsllokup**
+  **Nslokup**
   ----------
   Nslookup change domain name into ip address ,The ip address i got is:-
 
@@ -207,6 +207,14 @@ Who is
 **whatweb**
 --
 ![Screenshot](screenshot-2.png)
+
+**nslookup**
+--
+![Screenshot](Screenshot 2026-09-18 235643.png)
+
+Curl-I
+--
+![Screenshot](
 
 
 
