@@ -214,7 +214,7 @@ Who is
 
 Curl-I
 --
-![Screenshot](
+![Screenshot](VirtualBox_kali-linux-2026.2-virtualbox-amd64_18_09_2026_16_41_52.png)
 
 
 
