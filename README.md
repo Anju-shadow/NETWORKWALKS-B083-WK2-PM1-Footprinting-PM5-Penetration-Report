@@ -215,7 +215,7 @@ All activities were conducted within the assigned educational cybersecurity lab 
 --
 Who is 
 --
-![Screenshot](Screenshot-1.png)
+![Screenshot](Screenshot-who.png)
 
 **whatweb**
 --
