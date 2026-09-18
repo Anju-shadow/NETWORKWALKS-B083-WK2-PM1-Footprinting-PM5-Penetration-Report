@@ -215,7 +215,7 @@ All activities were conducted within the assigned educational cybersecurity lab 
 --
 Who is 
 --
-![Screenshot](Screenshot -1.png)
+![Screenshot](Screenshot-1.png)
 
 **whatweb**
 --
@@ -239,11 +239,11 @@ Curl-I
 
 **Zenmap scan**
 --
-![Screenshot](Screenshot2026-09-18 230144.png)
+![Screenshot](Zen-7.png)
 
 topology
 --
-![Screenshot](Screenshot 2026-09-18 230947.png)
+![Screenshot](Screenshot-topology.png)
 
 --
 **🐛Troublshooting**
