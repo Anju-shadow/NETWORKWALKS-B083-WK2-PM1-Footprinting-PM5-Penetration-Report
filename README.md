@@ -108,7 +108,50 @@ Secondly I used this to fetch the Tech-service it used .And it gave me result li
   ------
 For the second activity, I used Zenmap to perform network discovery on my local network. The scan required me to identify my local IP address and subnet, discover live hosts, identified their IP and MAC addresses, and generate a network topology.
 
-I first used the Windows ipconfig command to identify my local IP address and LAN subnet,then entered the subnet into Zenmap and selected Ping Scan to identify active hosts.
+Step 1:-I first used windows cmd  and then perform this command to determine my local ip address.
+
+**ipconfig/all**
+
+Step 2:- I downloaded Zenmap-nmap in windows and then added ip address into the target and performed  ping scan.
+The result i got is ip address,mac address .
+
+Step 3:- Generate Network Topology
+After completing the scan, I opened the Topology section in Zenmap, enabled the legend, and saved the network topology in PDF format as required by the practical task.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+**5.⚠️Risk Analysis**
+--------
+Based on the information collected during the footprinting and network scanning activities, the following potential risks were identified
+| 🧩 Risk Finding | Observation | Potential Impact | Risk Level |
+|-----------------|-------------|------------------|------------|
+| Web technology information exposed | WhatWeb identified WordPress and WP Download Manager | Attackers may use technology/version info to exploit software | Medium |
+| Server IP address identified | Nslookup resolved the domain to `192.232.216.135` | Reveals network location of web service | Low |
+| HTTP technical information exposed | Curl returned HTTP response headers and exposed `/wp-json/` | May assist enumeration and fingerprinting | Low |
+| WAF technology identified | Wafw00f determined ModSecurity (SpiderLabs) | Reveals security architecture of web service | Low |
+| DNS infrastructure information exposed | DNSRecon identified DNS, mail, and service-related records | DNS details can help build infrastructure profile | Medium |
+| Multiple live hosts on local network | Zenmap scan revealed active devices | Unknown or unauthorized devices may be present on network | Medium |
+
+**Risk level key**
+🔴High
+🟡Medium
+🟢Low
+
+Note:-The risk level above observations do not confirmed any vulnerability .
+          The practical exercises primarily involved information gathering and host discovery. No exploitation or vulnerability validation was performed as part of these two modules.
+
+Therefore, the presence of information such as a software version, IP address, or DNS record does not by itself mean that the system is vulnerable. Further authorized security testing would be required to confirm any actual vulnerability
+
+------------------------------
+**6.↪️Recomendation**
+-----
+
+
+
+
+
+                           
+
 
 
 
