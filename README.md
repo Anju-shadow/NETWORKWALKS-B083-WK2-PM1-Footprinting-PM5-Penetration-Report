@@ -199,8 +199,10 @@ I used **Zenmap** to scan my local network:
 All activities were conducted within the assigned educational cybersecurity lab environment
 -----------------------------------
 **📷Evidence collected**
+--
 Who is 
-![](Screenshot -1.png)
+--
+![Screenshot](Screenshot -1.png)
 
 
 
