@@ -1,5 +1,18 @@
 **# NETWORKWALKS-B083-WK2-PM1-Footprinting-PM5-Penetration Testing-Report**
-☑️Penetration Testing Report — Footprinting & Network Scanning
+-------------------
+☑️**Penetration Testing Report — Footprinting & Network Scanning**
+---
+![Cybersecurity](https://img.shields.io/badge/Skill-Cybersecurity-red)
+![Virtualbox](https://img.shields.io/badge/Ver-Virtualbox%20v7.2-0078D7?logo=virtualbox)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-v2026.2-black?logo=kalilinux)
+![Linux](https://img.shields.io/badge/Skill-Linux-E95420)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-crimson?logo=hackthebox)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![NetworkWalks](https://img.shields.io/badge/NetworkWalks-darkslategray)
+![Author](https://img.shields.io/badge/Author-grey)
+![Author](https://img.shields.io/badge/ANJU%20-red)
+
+---
 
 **📌 Project Information**
 
@@ -215,6 +228,18 @@ Who is
 Curl-I
 --
 ![Screenshot](VirtualBox_kali-linux-2026.2-virtualbox-amd64_18_09_2026_16_41_52.png)
+
+**Wafw00f**
+--
+![Screenshot](VirtualBox_kali-linux-2026.2-virtualbox-amd64_18_09_2026_16_42_59.png)
+
+**DNSRecon**
+--
+![Screenshot](VirtualBox_kali-linux-2026.2-virtualbox-amd64_18_09_2026_16_44_26.png)
+
+**Zenmap scan**
+--
+![Screenshot](
 
 
 
